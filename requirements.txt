@@ -3,5 +3,5 @@ langchain-groq==0.2.3
 chromadb==0.5.23
 pandas==2.0.3
 langchain-community==0.2.19
-langchain-core==0.3.0  
+langchain-core>=0.3.29,<0.4.0 
 python-dotenv==1.0.0
